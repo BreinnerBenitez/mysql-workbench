@@ -3,7 +3,7 @@
 ## **Creacion  base de datos de  dos entidades y  consultas sql.**
 ## *Trigger
 ## *Procedimientos Almacenados
-
+>> lamarden.sql
 ___
 ## Imagen 1
 ![imagen1](imgm/1imagen.PNG)
