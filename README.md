@@ -1,8 +1,8 @@
 
 # mysql-workbench  🐬
 ## **Creacion  base de datos de  dos entidades y  consultas sql**
-## Trigger
-## Procedimientos Almacenados
+## *Trigger
+## *Procedimientos Almacenados
 
 ___
 ## Imagen 1
@@ -42,8 +42,8 @@ ___
 ## imagen 8
 ![imagen1](imgm/8imagen.PNG)
 
-~~~
-## Gracias por estar aqui. 
-~~~
+
+
+
 
 
