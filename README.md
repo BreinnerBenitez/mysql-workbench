@@ -1,6 +1,6 @@
 
 # mysql-workbench  🐬
-## **Creacion  base de datos de  dos entidades y  consultas sql**
+## **Creacion  base de datos de  dos entidades y  consultas sql.**
 ## *Trigger
 ## *Procedimientos Almacenados
 
