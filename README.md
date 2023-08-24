@@ -5,4 +5,4 @@
 ## Procedimientos Almacenados
 ___
 ## Imagen 1
-![imagen1](imgm/1imagen.png)
+![imagen1](imgm/1imagen.PNG)
